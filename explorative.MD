@@ -7,3 +7,9 @@ My very very first steps, in the early hours; "first contact" so to say.
 * [rubyAllMeth.rb](rubyAllMeth.rb) - VERY USEFUL: Study all methods of an object, see them executed
 * [rubyFileIO.rb](rubyFileIO.rb) how to open files. Plus all 'file' methods.
 
+---
+---
+
+**If you like this, show it** (Thx! Every bit counts, I have no income.) --> Bitcoin  
+
+    1FsfnPDgU1yaEYoc5PEskUwMpmYZb8TaGW 

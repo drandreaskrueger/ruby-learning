@@ -38,4 +38,10 @@ Enjoy!
 P.S.: No guarantees that my code is correct.  
 Use WolframAlpha to [generate primes](http://www.wolframalpha.com/input/?i=prime+near+42000042), and [check whether prime](http://www.wolframalpha.com/input/?i=is+42000059+prime) 
 
+---
+---
+
+**If you like this, show it** (Thx! Every bit counts, I have no income.) --> Bitcoin  
+
+    1FsfnPDgU1yaEYoc5PEskUwMpmYZb8TaGW 
 

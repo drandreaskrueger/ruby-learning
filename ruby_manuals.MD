@@ -30,4 +30,10 @@ Ctrl-O
 Sowas von genial ... bin schon bei 83/282.  
 Einfach jeden Tag ein paar mehr ... Erleuchtung macht abhängig 
 
+
 ---
+---
+
+**If you like this, show it** (Thx! Every bit counts, I have no income.) --> Bitcoin  
+
+    1FsfnPDgU1yaEYoc5PEskUwMpmYZb8TaGW 

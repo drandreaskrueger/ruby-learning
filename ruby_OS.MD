@@ -56,3 +56,9 @@ Dauert echt nur 2 Minuten:  Ruby download & install & associate .rb files
    Mein "binaer03.rb" abspeichern, und im Explorer doppelklicken.  
 
 
+---
+---
+
+**If you like this, show it** (Thx! Every bit counts, I have no income.) --> Bitcoin  
+
+    1FsfnPDgU1yaEYoc5PEskUwMpmYZb8TaGW 

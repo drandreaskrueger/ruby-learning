@@ -28,4 +28,13 @@ for the third program:
 
 Good - isn't it?  
 
-P.S.: You can change constants at the top of the script 03.  
+P.S.: You can change constants at the top of the script 03.
+
+
+---
+---
+
+**If you like this, show it** (Thx! Every bit counts, I have no income.) --> Bitcoin  
+
+    1FsfnPDgU1yaEYoc5PEskUwMpmYZb8TaGW 
+  
