@@ -19,7 +19,7 @@
 
 ## devkit (needed for some gems)
     DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe
-unpack, move to permanent location!
+unpack, move to permanent location!  
     ruby dk.rb init
     ruby dk.rb install
 
@@ -32,25 +32,24 @@ unpack, move to permanent location!
 Dauert echt nur 2 Minuten:  Ruby download & install & associate .rb files
 
 1)
-http://rubyinstaller.org/downloads/ --> "Ruby 2.1.7" also
-http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.7.exe
+   http://rubyinstaller.org/downloads/ --> "Ruby 2.1.7"   
+   also http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.1.7.exe
 
 2)
-rubyinstaller-2.1.7.exe doppelklicken
+   rubyinstaller-2.1.7.exe doppelklicken
 
 3)
-English OK
-Accept Next
+   English OK
+   Accept Next
 
-Associate .rb and .rbw files with this Ruby installation    (siehe Bild unten)
-Install
+   "Associate .rb and .rbw files with this Ruby installation"
+   Install
 
 4)
-Warten
-Finish
-
+   Warten
+   Finish
 
 5)
-Mein "binaer03.rb" abspeichern, und im Explorer doppelklicken.
+   Mein "binaer03.rb" abspeichern, und im Explorer doppelklicken.
 
 

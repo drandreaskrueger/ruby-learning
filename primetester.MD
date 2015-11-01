@@ -14,7 +14,7 @@ The second version is *without* that "playful" intro, and definitely easier to u
 
 Both have a switch at the beginning, where you can choose "stop as soon as one divisor has been found" versus "find many divisors".
 
-Wow, it is quite fast - two to eight million tests per second, depending on the hardware. All large numbers given at the bottom of the ruby files ... are working without problems.
+Wow, it is quite fast - two to eight million tests per second, depending on the hardware (... square that number, and you'll get the prime that can be checked within the same time). All large numbers given at the bottom of the ruby files ... are working without problems.
 
 
 ### [primetester01.rb](primetester01.rb)
