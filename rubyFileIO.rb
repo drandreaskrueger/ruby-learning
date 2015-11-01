@@ -3,6 +3,9 @@
 # RUBY LEARNING - my first explorative steps
 # (C) 2015 by AK
 # 
+# If you like this, show it: [BTC] 1FsfnPDgU1yaEYoc5PEskUwMpmYZb8TaGW
+#
+ 
 
 puts "---------------------------"
 puts "-----   Begins here    ----"

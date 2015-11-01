@@ -1,4 +1,8 @@
 # (C) 2015 by AK
+# 
+# If you like this, show it: [BTC] 1FsfnPDgU1yaEYoc5PEskUwMpmYZb8TaGW
+#
+
 
 breakWhenFirstFound = false   # false, then it will find many divisors (slower).
                               # true, then it will stop as soon as it finds one.

@@ -1,9 +1,17 @@
+# 
+# If you like this, show it: [BTC] 1FsfnPDgU1yaEYoc5PEskUwMpmYZb8TaGW
+#
 
 base = 2      # 2 for binary (base-2) system  (... try e.g. octal, and hexadecimal)
 summands = 2  # 2 for adding two numbers
 
 puts
-puts "BaseX calculator"
+
+
+puts                    "BaseX calculator"
+
+
+
 puts "Might help explaining how to add #{summands} positive numbers in base-#{base}."
 puts "  [Change parameters ... in the first two lines of the code.]"
 puts 
