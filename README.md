@@ -9,7 +9,6 @@ Finally I started studying Ruby. Such a cool language. Here are some of my first
 * [LICENSE MIT](LICENSE)
 
 ---
-If you like this, show it:  
+If you like this, show it (Thx! Every bit counts, I have no income.) --> Bitcoin  
 
     1FsfnPDgU1yaEYoc5PEskUwMpmYZb8TaGW 
-(Thx! Every bit counts, I have no income.)
