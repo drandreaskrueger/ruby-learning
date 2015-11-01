@@ -3,7 +3,7 @@
 
 All this is mainly me learning the essential Ruby basics.
   
-However, the trigger for this chapter was a friend who has started studying, and one of the first questions is ... a prime number tester.
+However, the trigger for this chapter was a friend who has started studying, and one of the first questions is ... a *prime number tester*.
 
 
 ## **Two Versions.   ...01.rb and ...02.rb**

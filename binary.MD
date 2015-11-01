@@ -17,10 +17,11 @@ and * **taddaa** * ...
   (execute at http://goo.gl/u7qlsn)
 
 
-**Manual:**
-1) click one of the 3 "execute-"links above. Wait.   
+### Manual:
+
+1) click one of the 3 "execute-"links above. Wait.  
 2) press "Execute".  
-Done! The output is appearing in the "Terminal" at the bottom.  
+   Done! The output is appearing in the "Terminal" at the bottom.  
 
 for the third program:  
 3) Inside the green "Terminal" ... input your binary numbers.  

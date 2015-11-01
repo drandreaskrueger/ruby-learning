@@ -2,7 +2,7 @@
 
 ## Linux
     sudo apt-get update && sudo apt-get upgrade
-	sudo apt-get install ruby-full
+	sudo apt-get install ruby-full wget zip nano
 	ruby -v && gem -v  # see versions
 
 ## Ruby - Path to Enlightenment - Superb self-learning tutorial
@@ -25,6 +25,7 @@
 ## devkit (needed for updating some of the gems)
 [DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe](http://rubyinstaller.org/downloads/)
 unpack, move to permanent location!  
+
     ruby dk.rb init
     ruby dk.rb install
 
