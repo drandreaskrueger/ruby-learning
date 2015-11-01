@@ -1,17 +1,18 @@
 # Prime tester
-## Coding something in Ruby, pt.2
+## Coding something larger in Ruby, pt.2
 
-All this is mainly me learning essential Ruby basics.  
-The trigger for this chapter was a friend who has started studying, and one of the first questions is ... a prime number tester.
+All this is mainly me learning the essential Ruby basics.
+  
+However, the trigger for this chapter was a friend who has started studying, and one of the first questions is ... a prime number tester.
 
 
-**Two Versions.   ...01.rb and ...02.rb**
+## **Two Versions.   ...01.rb and ...02.rb**
 
 The first one is a bit more complex, but neat: I tried solving the 2,3,4,5 question first - ... just because I can :-)
 
 The second version is *without* that "playful" intro, and definitely easier to understand. It simply tests all odd numbers (plus the 2) until sqrt(n).
 
-Both have a switch at the beginning, where you can choose "stop as soon as a divisor has been found" versus "find many divisors".
+Both have a switch at the beginning, where you can choose "stop as soon as one divisor has been found" versus "find many divisors".
 
 Wow, it is quite fast - two to eight million tests per second, depending on the hardware. All large numbers given at the bottom of the ruby files ... are working without problems.
 
@@ -26,14 +27,15 @@ Better look at this code first.
 
 ##How?
 
-Either you [download Ruby](http://rubyinstaller.org/downloads/) to your machine; or you copy the code into http://www.tutorialspoint.com/execute_ruby_online.php - and then press "Execute" there.
+Either you [download Ruby](http://rubyinstaller.org/downloads/) to your machine; or you copy my code into [tutorialspoint execute_ruby_online](http://www.tutorialspoint.com/execute_ruby_online.php) - and then press "Execute" there.
 
 
 Enjoy!
 
-		:-)
+  :-)
 		
 		
-P.S.: No guarantees that my code is correct.
+P.S.: No guarantees that my code is correct.  
+Use WolframAlpha to [generate primes](http://www.wolframalpha.com/input/?i=prime+near+42000042), and [check whether prime](http://www.wolframalpha.com/input/?i=is+42000059+prime) 
 
 
