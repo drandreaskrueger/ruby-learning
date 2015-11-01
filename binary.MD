@@ -5,7 +5,7 @@
 A friend has started to study, and needs to understand binary numbers. As I was learning Ruby anyways, I tested how much I had already understood Ruby; and built these simple programs.
 
 
-[binary01.rb] = generates a simple table, to stare at it
+* [[binary01.rb]] = generates a simple table, to stare at it
   http://goo.gl/10OZ4b
 
 [binary02.rb] = more base systems; generalization helps understanding
