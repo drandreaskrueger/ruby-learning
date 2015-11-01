@@ -23,7 +23,7 @@
     gem update
 
 ## devkit (needed for updating some of the gems)
-    [DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe](http://rubyinstaller.org/downloads/)
+[DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe](http://rubyinstaller.org/downloads/)
 unpack, move to permanent location!  
     ruby dk.rb init
     ruby dk.rb install
@@ -41,17 +41,17 @@ Dauert echt nur 2 Minuten:  Ruby download & install & associate .rb files
    rubyinstaller-2.1.7.exe doppelklicken
 
 3)  
-   English OK
-   Accept Next
-
-   "Associate .rb and .rbw files with this Ruby installation"
-   Install
+   English OK  
+   Accept Next  
+   
+   "Associate .rb and .rbw files with this Ruby installation"  
+   Install  
 
 4)  
-   Warten
-   Finish
-
+   Warten  
+   Finish  
+   
 5)  
-   Mein "binaer03.rb" abspeichern, und im Explorer doppelklicken.
+   Mein "binaer03.rb" abspeichern, und im Explorer doppelklicken.  
 
 
