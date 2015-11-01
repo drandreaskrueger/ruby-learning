@@ -19,7 +19,7 @@ and * **taddaa** * ...
 
 ### Manual:
 
-1) click one of the 3 "execute-"links above. Wait.  
+1) click **one** of the 3 "execute at" - links above. Wait.  
 2) press "Execute".  
    Done! The output is appearing in the "Terminal" at the bottom.  
 
@@ -28,4 +28,4 @@ for the third program:
 
 Good - isn't it?  
 
-P.S.: You can change constants at the top of the scripts.  
+P.S.: You can change constants at the top of the script 03.  
