@@ -9,4 +9,6 @@ Finally I started studying Ruby. Such a cool language. Here are some of my first
 * [LICENSE MIT](LICENSE)
 
 ---
-If you like this, show it: 1FsfnPDgU1yaEYoc5PEskUwMpmYZb8TaGW (Thx! Every bit counts, I have no income.)
+If you like this, show it: 
+    1FsfnPDgU1yaEYoc5PEskUwMpmYZb8TaGW 
+(Thx! Every bit counts, I have no income.)
