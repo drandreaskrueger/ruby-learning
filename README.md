@@ -7,3 +7,6 @@ Finally I started studying Ruby. Such a cool language. Here are some of my first
 * [primetester.MD](primetester.MD) - my 2nd own project
 * [ruby_OS.MD](ruby_OS.MD) - install & administer
 * [LICENSE MIT](LICENSE)
+
+---
+If you like this, show it: 1FsfnPDgU1yaEYoc5PEskUwMpmYZb8TaGW (Thx! Every bit counts, I have no income.)
